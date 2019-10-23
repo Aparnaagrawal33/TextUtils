@@ -1,0 +1,1 @@
+hello this is a demo to read file data through django code
